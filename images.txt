@@ -1,4 +1,2 @@
-mysql:5.7
-mysql:latest
-redis
-1panel/kubepi
+registry
+joxit/docker-registry-ui
