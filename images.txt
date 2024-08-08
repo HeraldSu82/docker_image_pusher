@@ -1,6 +1,5 @@
 mysql:5.7
 mysql:latest
-mongodb
 redis
 1panel/kubepi
 apache
