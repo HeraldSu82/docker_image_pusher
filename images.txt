@@ -1,2 +1,1 @@
-registry
-joxit/docker-registry-ui
+openresty/openresty
