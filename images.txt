@@ -1,1 +1,1 @@
-redislabs/redisinsight
+rediscommander/redis-commander
