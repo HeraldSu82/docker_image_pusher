@@ -1,1 +1,1 @@
-rediscommander/redis-commander
+containrrr/watchtower
