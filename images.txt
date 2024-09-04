@@ -1,1 +1,1 @@
-containrrr/watchtower
+gitlab/gitlab-ce:17.1.6-ce.0
