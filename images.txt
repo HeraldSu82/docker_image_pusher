@@ -1,1 +1,1 @@
-sysdig/sysdig-inspect:0.7.3.20230622.151714-dev
+frooodle/s-pdf:latest
