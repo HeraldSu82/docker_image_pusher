@@ -1,1 +1,2 @@
-openeuler/openeuler:latest
+netdata/netdata
+louislam/uptime-kuma
