@@ -1,1 +1,1 @@
-louislam/uptime-kuma
+wcjiang/linux-command:latest
