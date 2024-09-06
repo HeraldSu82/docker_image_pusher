@@ -1,1 +1,1 @@
-imbytecat/serverstatus
+imbytecat/serverstatus:client-go
