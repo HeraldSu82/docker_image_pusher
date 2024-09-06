@@ -1,1 +1,1 @@
-wcjiang/linux-command:latest
+imbytecat/serverstatus
