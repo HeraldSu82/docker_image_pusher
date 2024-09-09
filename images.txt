@@ -1,1 +1,1 @@
-imbytecat/serverstatus:client-go
+nginx:1.14.3
