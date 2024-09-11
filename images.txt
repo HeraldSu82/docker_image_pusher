@@ -1,1 +1,5 @@
-busybox:latest
+chainguard/calico-kube-controllers
+chainguard/calico-apiserver
+chainguard/calico-typha
+chainguard/tigera-operator
+chainguard/coredns
