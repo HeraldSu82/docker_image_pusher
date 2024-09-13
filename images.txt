@@ -1,2 +1,10 @@
-centos:8.4.2105
-centos:centos8
+tomcat:latest
+tomcat:jre21-temurin-noble
+tomcat:jre21-temurin-jammy
+tomcat:jre21-temurin
+tomcat:jre21
+tomcat:jre17-temurin-noble
+tomcat:jre17-temurin-jammy
+tomcat:jre17-temurin
+tomcat:jre17
+tomcat:jre11-temurin-noble
