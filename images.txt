@@ -1,5 +1,6 @@
-chainguard/calico-kube-controllers
-chainguard/calico-apiserver
-chainguard/calico-typha
-chainguard/tigera-operator
-chainguard/coredns
+centos/centos-release 7-9.2009.0.el7.cento
+centos/vim-minimal 2:7.4.629-7.el7
+centos/yum 3.4.3-168.el7.centos
+centos:centos7.9.2009
+centos:centos8.4.2105
+centos:latest
