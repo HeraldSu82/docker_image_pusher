@@ -1,10 +1,7 @@
-tomcat:latest
-tomcat:jre21-temurin-noble
-tomcat:jre21-temurin-jammy
-tomcat:jre21-temurin
-tomcat:jre21
-tomcat:jre17-temurin-noble
-tomcat:jre17-temurin-jammy
-tomcat:jre17-temurin
-tomcat:jre17
-tomcat:jre11-temurin-noble
+redis:alpine
+redis:alpine3.20
+redis:7.4.0-alpine3.20
+chainguard/mongodb
+mongodb/mongodb-atlas-kubernetes-operator
+mongodb/mongodb-enterprise-server
+mongodb/mongodb-atlas-kubernetes-operator-prerelease
