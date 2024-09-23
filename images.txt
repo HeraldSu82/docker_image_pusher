@@ -1,7 +1,1 @@
-redis:alpine
-redis:alpine3.20
-redis:7.4.0-alpine3.20
-chainguard/mongodb
-mongodb/mongodb-atlas-kubernetes-operator
-mongodb/mongodb-enterprise-server
-mongodb/mongodb-atlas-kubernetes-operator-prerelease
+mysql:11.1.17
