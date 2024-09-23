@@ -1,1 +1,1 @@
-bitnamicharts/mysql
+bitnamicharts/mysql:sha256-2ab5075ce4a72bf317770c5b36bef496471b79ece03b517c9cb6310c00d23e8e
